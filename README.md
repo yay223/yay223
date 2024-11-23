@@ -4,7 +4,7 @@ I have recently developed a keen interest in Machine learning algorithms and the
 
 #### My hobbies & interests:
 
-- Building and experimenting with DIY electronics, including creating custom security systems and personal projects like keyboards.
+- Building and experimenting with DIY electronics.
 - Ricing (I use Arch btw 🤓☝)
 - ##### Tinkering:
   - A growing interest in system administration, home servers, and networking.
